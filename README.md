@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Klci 👋
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D1B2&center=true&vCenter=true&width=560&lines=Cybersecurity+practitioner+%7C+10%2B+years;Threat+intel+%C2%B7+Vuln+scanning+%C2%B7+Automation;Cultivating+code%2C+one+breakthrough+at+a+time" alt="Typing SVG" />
 
 </div>
