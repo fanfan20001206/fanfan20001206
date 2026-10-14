@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D1B2&center=true&vCenter=true&width=560&lines=Cybersecurity+practitioner+%7C+10%2B+years;Threat+intel+%C2%B7+Vuln+scanning+%C2%B7+Automation;Cultivating+code%2C+one+breakthrough+at+a+time" alt="Typing SVG" />
 
 </div>
@@ -25,4 +25,13 @@
 
 ## 🧙 Fun Fact
 
-Big fan of *A Record of a Mortal's Journey to Immortality* (凡人修仙传). Stay cautious, build solid foundations, keep leveling up.
+Big fan of *A Record of a Mortal's Journey to Immortality*. Stay cautious, build solid foundations, keep leveling up.
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=fanfan20001206&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanfan20001206&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
